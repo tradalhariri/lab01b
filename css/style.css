@@ -1,0 +1,42 @@
+#last-p{
+    text-align: center;
+    background-color: #ee1111ff;
+    padding: 10px;
+    color: white;
+}
+
+footer{
+
+    text-align: center;
+    background-color: #ee1111ff;
+    padding: 10px;
+    color: white;
+
+}
+
+header{
+    text-align: center;
+    background-color: #ee1111ff;
+    padding: 10px;
+    color: white;  
+}
+
+li{
+    display: inline-block;
+    width: 90px;
+ 
+}
+
+ul{
+    list-style-type: none;
+}
+
+a{
+    display: inline-block;
+    width: 50px;
+    padding: 10px;
+    color: black;
+    background-color: white;
+    text-decoration: none;
+}
+
